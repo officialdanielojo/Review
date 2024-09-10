@@ -101,6 +101,7 @@ p {
 
 #author {
     margin-bottom: 5px;
+    text-transform: capitalize;
     width: fit-content;
 }
 
@@ -109,7 +110,7 @@ p {
     margin-bottom: 0.5rem;
     text-transform: uppercase;
     color: #49a6e9;
-    font-size: 14px;
+    font-size: 13px;
 }
 
 #info {
